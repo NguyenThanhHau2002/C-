@@ -1,0 +1,7 @@
+C:\Users\hau09\source\repos\Bai10\Bai10\bin\Debug\Bai10.exe.config
+C:\Users\hau09\source\repos\Bai10\Bai10\bin\Debug\Bai10.exe
+C:\Users\hau09\source\repos\Bai10\Bai10\bin\Debug\Bai10.pdb
+C:\Users\hau09\source\repos\Bai10\Bai10\obj\Debug\Bai10.csproj.AssemblyReference.cache
+C:\Users\hau09\source\repos\Bai10\Bai10\obj\Debug\Bai10.csproj.CoreCompileInputs.cache
+C:\Users\hau09\source\repos\Bai10\Bai10\obj\Debug\Bai10.exe
+C:\Users\hau09\source\repos\Bai10\Bai10\obj\Debug\Bai10.pdb

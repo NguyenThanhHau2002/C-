@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hau09\\source\\repos\\Bai10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11EA96E7-1000-4A25-822F-3B8F8BD9D307}|LargestTest\\LargestTest.csproj|c:\\users\\hau09\\source\\repos\\bai10\\largesttest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11EA96E7-1000-4A25-822F-3B8F8BD9D307}|LargestTest\\LargestTest.csproj|solutionrelative:largesttest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E29B0F78-2B5E-4DF0-B0C0-05E760B5D268}|Bai10\\Bai10.csproj|c:\\users\\hau09\\source\\repos\\bai10\\bai10\\largest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E29B0F78-2B5E-4DF0-B0C0-05E760B5D268}|Bai10\\Bai10.csproj|solutionrelative:bai10\\largest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E29B0F78-2B5E-4DF0-B0C0-05E760B5D268}|Bai10\\Bai10.csproj|c:\\users\\hau09\\source\\repos\\bai10\\bai10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E29B0F78-2B5E-4DF0-B0C0-05E760B5D268}|Bai10\\Bai10.csproj|solutionrelative:bai10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11EA96E7-1000-4A25-822F-3B8F8BD9D307}|LargestTest\\LargestTest.csproj|c:\\users\\hau09\\source\\repos\\bai10\\largesttest\\data\\testdata.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{11EA96E7-1000-4A25-822F-3B8F8BD9D307}|LargestTest\\LargestTest.csproj|solutionrelative:largesttest\\data\\testdata.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestData.csv",
+              "DocumentMoniker": "C:\\Users\\hau09\\source\\repos\\Bai10\\LargestTest\\Data\\TestData.csv",
+              "RelativeDocumentMoniker": "LargestTest\\Data\\TestData.csv",
+              "ToolTip": "C:\\Users\\hau09\\source\\repos\\Bai10\\LargestTest\\Data\\TestData.csv",
+              "RelativeToolTip": "LargestTest\\Data\\TestData.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-07-15T12:33:43.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\hau09\\source\\repos\\Bai10\\LargestTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "LargestTest\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\hau09\\source\\repos\\Bai10\\LargestTest\\UnitTest1.cs",
+              "RelativeToolTip": "LargestTest\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T12:32:42.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Largest.cs",
+              "DocumentMoniker": "C:\\Users\\hau09\\source\\repos\\Bai10\\Bai10\\Largest.cs",
+              "RelativeDocumentMoniker": "Bai10\\Largest.cs",
+              "ToolTip": "C:\\Users\\hau09\\source\\repos\\Bai10\\Bai10\\Largest.cs",
+              "RelativeToolTip": "Bai10\\Largest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T12:26:18.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hau09\\source\\repos\\Bai10\\Bai10\\Program.cs",
+              "RelativeDocumentMoniker": "Bai10\\Program.cs",
+              "ToolTip": "C:\\Users\\hau09\\source\\repos\\Bai10\\Bai10\\Program.cs",
+              "RelativeToolTip": "Bai10\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T12:22:50.556Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\hau09\source\repos\KTTHKC_Bai1\KTTHKC_Bai1\bin\Debug\KTTHKC_Bai1.exe.config
+C:\Users\hau09\source\repos\KTTHKC_Bai1\KTTHKC_Bai1\bin\Debug\KTTHKC_Bai1.exe
+C:\Users\hau09\source\repos\KTTHKC_Bai1\KTTHKC_Bai1\bin\Debug\KTTHKC_Bai1.pdb
+C:\Users\hau09\source\repos\KTTHKC_Bai1\KTTHKC_Bai1\obj\Debug\KTTHKC_Bai1.csproj.AssemblyReference.cache
+C:\Users\hau09\source\repos\KTTHKC_Bai1\KTTHKC_Bai1\obj\Debug\KTTHKC_Bai1.csproj.CoreCompileInputs.cache
+C:\Users\hau09\source\repos\KTTHKC_Bai1\KTTHKC_Bai1\obj\Debug\KTTHKC_Bai1.exe
+C:\Users\hau09\source\repos\KTTHKC_Bai1\KTTHKC_Bai1\obj\Debug\KTTHKC_Bai1.pdb

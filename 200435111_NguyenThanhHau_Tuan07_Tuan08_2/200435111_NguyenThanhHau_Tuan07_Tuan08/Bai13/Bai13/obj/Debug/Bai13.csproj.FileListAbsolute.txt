@@ -1,0 +1,10 @@
+C:\Users\hau09\source\repos\Bai13\Bai13\bin\Debug\Bai13.exe.config
+C:\Users\hau09\source\repos\Bai13\Bai13\bin\Debug\Bai13.exe
+C:\Users\hau09\source\repos\Bai13\Bai13\bin\Debug\Bai13.pdb
+C:\Users\hau09\source\repos\Bai13\Bai13\obj\Debug\Bai13.csproj.AssemblyReference.cache
+C:\Users\hau09\source\repos\Bai13\Bai13\obj\Debug\Bai13.Properties.Resources.resources
+C:\Users\hau09\source\repos\Bai13\Bai13\obj\Debug\Bai13.csproj.GenerateResource.cache
+C:\Users\hau09\source\repos\Bai13\Bai13\obj\Debug\Bai13.csproj.CoreCompileInputs.cache
+C:\Users\hau09\source\repos\Bai13\Bai13\obj\Debug\Bai13.exe
+C:\Users\hau09\source\repos\Bai13\Bai13\obj\Debug\Bai13.pdb
+C:\Users\hau09\source\repos\Bai13\Bai13\obj\Debug\Bai13.Form1.resources

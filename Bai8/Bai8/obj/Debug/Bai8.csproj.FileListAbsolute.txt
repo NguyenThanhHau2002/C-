@@ -1,0 +1,7 @@
+C:\Users\hau09\source\repos\Bai8\Bai8\bin\Debug\Bai8.exe.config
+C:\Users\hau09\source\repos\Bai8\Bai8\bin\Debug\Bai8.exe
+C:\Users\hau09\source\repos\Bai8\Bai8\bin\Debug\Bai8.pdb
+C:\Users\hau09\source\repos\Bai8\Bai8\obj\Debug\Bai8.csproj.AssemblyReference.cache
+C:\Users\hau09\source\repos\Bai8\Bai8\obj\Debug\Bai8.csproj.CoreCompileInputs.cache
+C:\Users\hau09\source\repos\Bai8\Bai8\obj\Debug\Bai8.exe
+C:\Users\hau09\source\repos\Bai8\Bai8\obj\Debug\Bai8.pdb

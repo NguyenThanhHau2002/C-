@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai11", "Bai11\Bai11.csproj", "{A7F02B1F-61CD-44AC-9E76-DCAB4CDA4352}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestArrayChecker", "TestArrayChecker\TestArrayChecker.csproj", "{62A91AF2-245C-4EAE-AD29-20FA67C916D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7F02B1F-61CD-44AC-9E76-DCAB4CDA4352}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7F02B1F-61CD-44AC-9E76-DCAB4CDA4352}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7F02B1F-61CD-44AC-9E76-DCAB4CDA4352}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7F02B1F-61CD-44AC-9E76-DCAB4CDA4352}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62A91AF2-245C-4EAE-AD29-20FA67C916D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62A91AF2-245C-4EAE-AD29-20FA67C916D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62A91AF2-245C-4EAE-AD29-20FA67C916D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62A91AF2-245C-4EAE-AD29-20FA67C916D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {118C5412-F47E-4D9F-B5C2-F236DF549A58}
+	EndGlobalSection
+EndGlobal

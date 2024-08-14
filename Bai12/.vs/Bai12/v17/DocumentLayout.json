@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hau09\\source\\repos\\Bai12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6192EC31-A151-4F78-BF32-A7100F6CC37B}|QuickSortTests\\QuickSortTests.csproj|c:\\users\\hau09\\source\\repos\\bai12\\quicksorttests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6192EC31-A151-4F78-BF32-A7100F6CC37B}|QuickSortTests\\QuickSortTests.csproj|solutionrelative:quicksorttests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6192EC31-A151-4F78-BF32-A7100F6CC37B}|QuickSortTests\\QuickSortTests.csproj|C:\\Users\\hau09\\source\\repos\\Bai12\\quicksorttests\\data\\testdata.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6192EC31-A151-4F78-BF32-A7100F6CC37B}|QuickSortTests\\QuickSortTests.csproj|solutionrelative:quicksorttests\\data\\testdata.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A9D3BF5-A7DC-4D5D-9C65-E59F87C12FDB}|Bai12\\Bai12.csproj|C:\\Users\\hau09\\source\\repos\\Bai12\\bai12\\quicksort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A9D3BF5-A7DC-4D5D-9C65-E59F87C12FDB}|Bai12\\Bai12.csproj|solutionrelative:bai12\\quicksort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestData.csv",
+              "DocumentMoniker": "C:\\Users\\hau09\\source\\repos\\Bai12\\QuickSortTests\\Data\\TestData.csv",
+              "RelativeDocumentMoniker": "QuickSortTests\\Data\\TestData.csv",
+              "ToolTip": "C:\\Users\\hau09\\source\\repos\\Bai12\\QuickSortTests\\Data\\TestData.csv",
+              "RelativeToolTip": "QuickSortTests\\Data\\TestData.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-07-15T12:09:10.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\hau09\\source\\repos\\Bai12\\QuickSortTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "QuickSortTests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\hau09\\source\\repos\\Bai12\\QuickSortTests\\UnitTest1.cs",
+              "RelativeToolTip": "QuickSortTests\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T12:07:37.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QuickSort.cs",
+              "DocumentMoniker": "C:\\Users\\hau09\\source\\repos\\Bai12\\Bai12\\QuickSort.cs",
+              "RelativeDocumentMoniker": "Bai12\\QuickSort.cs",
+              "ToolTip": "C:\\Users\\hau09\\source\\repos\\Bai12\\Bai12\\QuickSort.cs",
+              "RelativeToolTip": "Bai12\\QuickSort.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAiwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T12:05:17.763Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

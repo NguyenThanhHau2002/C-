@@ -1,0 +1,7 @@
+C:\Users\hau09\source\repos\KTTHKC_Bai1\Bai2_Tong\bin\Debug\Bai2_Tong.exe.config
+C:\Users\hau09\source\repos\KTTHKC_Bai1\Bai2_Tong\bin\Debug\Bai2_Tong.exe
+C:\Users\hau09\source\repos\KTTHKC_Bai1\Bai2_Tong\bin\Debug\Bai2_Tong.pdb
+C:\Users\hau09\source\repos\KTTHKC_Bai1\Bai2_Tong\obj\Debug\Bai2_Tong.csproj.AssemblyReference.cache
+C:\Users\hau09\source\repos\KTTHKC_Bai1\Bai2_Tong\obj\Debug\Bai2_Tong.csproj.CoreCompileInputs.cache
+C:\Users\hau09\source\repos\KTTHKC_Bai1\Bai2_Tong\obj\Debug\Bai2_Tong.exe
+C:\Users\hau09\source\repos\KTTHKC_Bai1\Bai2_Tong\obj\Debug\Bai2_Tong.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bai9", "Bai9\Bai9.csproj", "{71BA53D0-DF1D-4952-AF7A-6A9BC81F4EEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HuyChuoiTest", "HuyChuoiTest\HuyChuoiTest.csproj", "{06C973C7-B7B1-4E08-8149-C79B0D7925E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71BA53D0-DF1D-4952-AF7A-6A9BC81F4EEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71BA53D0-DF1D-4952-AF7A-6A9BC81F4EEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71BA53D0-DF1D-4952-AF7A-6A9BC81F4EEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71BA53D0-DF1D-4952-AF7A-6A9BC81F4EEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06C973C7-B7B1-4E08-8149-C79B0D7925E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06C973C7-B7B1-4E08-8149-C79B0D7925E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06C973C7-B7B1-4E08-8149-C79B0D7925E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06C973C7-B7B1-4E08-8149-C79B0D7925E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47D55528-2004-4B83-98F0-97C6C9C1B6EA}
+	EndGlobalSection
+EndGlobal

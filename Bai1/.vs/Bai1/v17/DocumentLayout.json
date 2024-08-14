@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hau09\\source\\repos\\Bai1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CF3B572-9B47-4BB6-A278-5AC92F96557C}|TestChuoi\\TestChuoi.csproj|c:\\users\\hau09\\source\\repos\\bai1\\testchuoi\\data\\testdata.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2CF3B572-9B47-4BB6-A278-5AC92F96557C}|TestChuoi\\TestChuoi.csproj|solutionrelative:testchuoi\\data\\testdata.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4014AA41-82C7-45F4-A3F8-AA45B47B4EAB}|Bai1\\Bai1.csproj|C:\\Users\\hau09\\source\\repos\\Bai1\\Bai1\\Chuoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4014AA41-82C7-45F4-A3F8-AA45B47B4EAB}|Bai1\\Bai1.csproj|solutionrelative:Bai1\\Chuoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CF3B572-9B47-4BB6-A278-5AC92F96557C}|TestChuoi\\TestChuoi.csproj|C:\\Users\\hau09\\source\\repos\\Bai1\\testchuoi\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CF3B572-9B47-4BB6-A278-5AC92F96557C}|TestChuoi\\TestChuoi.csproj|solutionrelative:testchuoi\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestData.csv",
+              "DocumentMoniker": "C:\\Users\\hau09\\source\\repos\\Bai1\\TestChuoi\\Data\\TestData.csv",
+              "RelativeDocumentMoniker": "TestChuoi\\Data\\TestData.csv",
+              "ToolTip": "C:\\Users\\hau09\\source\\repos\\Bai1\\TestChuoi\\Data\\TestData.csv",
+              "RelativeToolTip": "TestChuoi\\Data\\TestData.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-07-18T09:06:26.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\hau09\\source\\repos\\Bai1\\TestChuoi\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestChuoi\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\hau09\\source\\repos\\Bai1\\TestChuoi\\UnitTest1.cs",
+              "RelativeToolTip": "TestChuoi\\UnitTest1.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T08:57:23.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Chuoi.cs",
+              "DocumentMoniker": "C:\\Users\\hau09\\source\\repos\\Bai1\\Bai1\\Chuoi.cs",
+              "RelativeDocumentMoniker": "Bai1\\Chuoi.cs",
+              "ToolTip": "C:\\Users\\hau09\\source\\repos\\Bai1\\Bai1\\Chuoi.cs",
+              "RelativeToolTip": "Bai1\\Chuoi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T08:53:21.381Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

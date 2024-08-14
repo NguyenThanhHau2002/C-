@@ -1,0 +1,8 @@
+﻿input,n,p,ExpectedResult
+"Thanh Hau",5,3,"Thau"
+"Thanh Hau",2,0,"anh Hau"
+"Thanh Hau",3,1,"Th Hau"
+"Thanh Hau",10,0,""
+"Thanh Hau",5,10,"Thanh Hau"
+"Thanh Hau",-1,2,"Thanh Hau"
+"Thanh Hau",3,-1,"Thanh Hau"

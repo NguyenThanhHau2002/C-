@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hau09\\source\\repos\\Bai14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE79035-86C5-4725-9AC1-DC35F98FAC32}|CallCostCalculatorTests\\CallCostCalculatorTests.csproj|c:\\users\\hau09\\source\\repos\\bai14\\callcostcalculatortests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE79035-86C5-4725-9AC1-DC35F98FAC32}|CallCostCalculatorTests\\CallCostCalculatorTests.csproj|solutionrelative:callcostcalculatortests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE79035-86C5-4725-9AC1-DC35F98FAC32}|CallCostCalculatorTests\\CallCostCalculatorTests.csproj|c:\\users\\hau09\\source\\repos\\bai14\\callcostcalculatortests\\data\\testdata.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5EE79035-86C5-4725-9AC1-DC35F98FAC32}|CallCostCalculatorTests\\CallCostCalculatorTests.csproj|solutionrelative:callcostcalculatortests\\data\\testdata.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DD0DA0-CC5D-4A06-BD33-3B5C1C702B6F}|Bai14\\Bai14.csproj|c:\\users\\hau09\\source\\repos\\bai14\\bai14\\callcostcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43DD0DA0-CC5D-4A06-BD33-3B5C1C702B6F}|Bai14\\Bai14.csproj|solutionrelative:bai14\\callcostcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43DD0DA0-CC5D-4A06-BD33-3B5C1C702B6F}|Bai14\\Bai14.csproj|c:\\users\\hau09\\source\\repos\\bai14\\bai14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43DD0DA0-CC5D-4A06-BD33-3B5C1C702B6F}|Bai14\\Bai14.csproj|solutionrelative:bai14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestData.csv",
+              "DocumentMoniker": "C:\\Users\\hau09\\source\\repos\\Bai14\\CallCostCalculatorTests\\Data\\TestData.csv",
+              "RelativeDocumentMoniker": "CallCostCalculatorTests\\Data\\TestData.csv",
+              "ToolTip": "C:\\Users\\hau09\\source\\repos\\Bai14\\CallCostCalculatorTests\\Data\\TestData.csv",
+              "RelativeToolTip": "CallCostCalculatorTests\\Data\\TestData.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-07-17T17:48:18.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\hau09\\source\\repos\\Bai14\\CallCostCalculatorTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "CallCostCalculatorTests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\hau09\\source\\repos\\Bai14\\CallCostCalculatorTests\\UnitTest1.cs",
+              "RelativeToolTip": "CallCostCalculatorTests\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T17:47:31.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CallCostCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\hau09\\source\\repos\\Bai14\\Bai14\\CallCostCalculator.cs",
+              "RelativeDocumentMoniker": "Bai14\\CallCostCalculator.cs",
+              "ToolTip": "C:\\Users\\hau09\\source\\repos\\Bai14\\Bai14\\CallCostCalculator.cs",
+              "RelativeToolTip": "Bai14\\CallCostCalculator.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwC0AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T17:46:06.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hau09\\source\\repos\\Bai14\\Bai14\\Program.cs",
+              "RelativeDocumentMoniker": "Bai14\\Program.cs",
+              "ToolTip": "C:\\Users\\hau09\\source\\repos\\Bai14\\Bai14\\Program.cs",
+              "RelativeToolTip": "Bai14\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T17:43:00.971Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
